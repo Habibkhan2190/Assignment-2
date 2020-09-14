@@ -1,0 +1,41 @@
+body{
+	background:	#0040ff;
+}
+
+
+.form-box{
+	width:600px;
+	margin:auto;
+	background-color:	#5d6d7e;
+	border-radius: 20px;
+	padding: 55px 60px;
+	text-align: center;
+}
+.form-box h2{
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+.form-box form input{
+	width:300px;
+	margin-bottom: 30px;
+
+}
+.btn{
+	background:  #4f33ff ;
+	color: white;
+	width:150px !important;
+	height:30px !important; 
+
+}
+.social-icon{
+	.social-icon ul li{
+text-align: center;
+display: inline-block;
+
+}
+ h3{
+ text-align: center; 
+
+}
+
